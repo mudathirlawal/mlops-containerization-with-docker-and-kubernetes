@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/<gh>/<mudathirlawal>/<ml-microservice-kubernetes>.svg?style=svg&circle-token=<94d70e594404a166cac41bc6b2ee929fb0562ee0>)](<https://app.circleci.com/pipelines/github/mudathirlawal/ml-microservice-kubernetes>)
+[![CircleCI](https://circleci.com/<gh>/<mudathirlawal>/<ml-microservice-kubernetes>.svg?style=svg&circle-token=<e7d56bce203c135c152b9b94b6145d62a4fc338b>)](<https://app.circleci.com/pipelines/github/mudathirlawal/ml-microservice-kubernetes>)
 
 ## Project Overview
 
