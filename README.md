@@ -1,4 +1,4 @@
-[![<mudathirlawal>](https://circleci.com/<gh>/<mudathirlawal>/<ml-microservice-api>.svg?style=shield)](<https://github.com/mudathirlawal/ml-microservice-api/tree/master>)
+[![CircleCI](https://circleci.com/gh/mudathirlawal/ml-microservice-api.svg?style=shield)](https://circleci.com/gh/mudathirlawal/ml-microservice-api)
 
 ## Project Overview
 
