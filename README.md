@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/mudathirlawal/mlops-containerization-with-docker-and-kubernetes.svg?style=shield)](https://circleci.com/gh/mudathirlawal/mlops-containerization-with-docker-and-kubernetes)
+[![Build Status](https://circleci.com/gh/mudathirlawal/mlops-containerization-with-docker-and-kubernetes.svg?style=shield)](https://circleci.com/gh/mudathirlawal/mlops-containerization-with-docker-and-kubernetes)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7369fa844f2345bea983c8c545e16c5e)](https://www.codacy.com/manual/mudathirlawal/mlops-containerization-with-docker-and-kubernetes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mudathirlawal/mlops-containerization-with-docker-and-kubernetes&amp;utm_campaign=Badge_Grade)
 
 ## Project Overview
