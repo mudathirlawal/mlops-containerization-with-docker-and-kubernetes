@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ccd6c9b2aa564befaf96d420bd8b3a9b)](https://app.codacy.com/manual/mudathirlawal/mlops-containerization-with-docker-and-kubernetes?utm_source=github.com&utm_medium=referral&utm_content=mudathirlawal/mlops-containerization-with-docker-and-kubernetes&utm_campaign=Badge_Grade_Settings)
 [![CircleCI](https://circleci.com/gh/mudathirlawal/mlops-containerization-with-docker-and-kubernetes.svg?style=shield)](https://circleci.com/gh/mudathirlawal/mlops-containerization-with-docker-and-kubernetes)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7369fa844f2345bea983c8c545e16c5e)](https://www.codacy.com/manual/mudathirlawal/mlops-containerization-with-docker-and-kubernetes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mudathirlawal/mlops-containerization-with-docker-and-kubernetes&amp;utm_campaign=Badge_Grade)
 
