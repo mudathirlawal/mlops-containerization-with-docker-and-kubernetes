@@ -16,8 +16,6 @@ The ultimate goal of this project is to operationalize this working, machine lea
 * Configuring Kubernetes and create a Kubernetes cluster
 * Deploying a container using Kubernetes and make a prediction
 * Building CircleCI to indicate that the code has been tested
-
-You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
 ---
 
 ## Seting up the Environment
